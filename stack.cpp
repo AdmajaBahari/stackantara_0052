@@ -7,4 +7,9 @@ public:
     //2. inisialisasi variabel data dan Node next sebagai member class Node
     int data;
     Node* next;
+
+    Node() {
+        //3. pemberian value next sabagai NULL
+        next = NULL;
+    }
 };
