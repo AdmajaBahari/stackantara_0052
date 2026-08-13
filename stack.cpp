@@ -91,6 +91,11 @@ int main()
         cout << "4. Exit\n";
         cout << "Enter your choice : ";
         cin >> choice;
+
+        //15. pembuatan kondisional statement choice
+        switch (choice)
+        {
+        }
     }
     return 0;
 }
