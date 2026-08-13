@@ -81,5 +81,9 @@ int main()
     int choice = 0;
     int value;
 
+    //13. perulangan selama nilai choice tidak sama dengan 5
+    while (choice != 5)
+    {
+    }
     return 0;
 }
