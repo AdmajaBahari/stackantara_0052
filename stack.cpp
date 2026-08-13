@@ -70,3 +70,12 @@ public:
     }
 
 };
+
+int main()
+{
+
+    //11. inisialisasi object stact
+    Stack stact;
+
+    return 0;
+}
