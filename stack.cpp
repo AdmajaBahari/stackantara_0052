@@ -77,5 +77,9 @@ int main()
     //11. inisialisasi object stact
     Stack stact;
 
+    //12. inisilisasi variabel choice dan value untuk menangkap input pengguna
+    int choice = 0;
+    int value;
+
     return 0;
 }
